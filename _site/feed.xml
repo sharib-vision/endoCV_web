@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2019-08-23T23:36:35+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">EndoCV</title><subtitle>Building fundamental computer vision methods in Endoscopy</subtitle><entry><title type="html">Computer Vision in Endoscopy (EndoCV)</title><link href="http://localhost:4000/general/2018/08/22/hello-world/" rel="alternate" type="text/html" title="Computer Vision in Endoscopy (EndoCV)" /><published>2018-08-22T00:00:00+01:00</published><updated>2018-08-22T00:00:00+01:00</updated><id>http://localhost:4000/general/2018/08/22/hello-world</id><content type="html" xml:base="http://localhost:4000/general/2018/08/22/hello-world/">&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;About: This is an initiative to promote foundational research required for establishing translational research in Endoscopy.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;themes&quot;&gt;Themes:&lt;/h3&gt;
+
+&lt;h4 id=&quot;theme-1-endoscopy-artefact-detection-ead&quot;&gt;Theme 1: Endoscopy Artefact Detection (EAD)&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;EAD2019&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;EAD2020&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;theme-2-endoscopy-disease-detection-edd&quot;&gt;Theme 2: Endoscopy Disease Detection (EDD)&lt;/h4&gt;
+
+&lt;p&gt;TO BE DECLAIRED!&lt;/p&gt;
+
+&lt;h4 id=&quot;theme-3-endoscopy-frame-restoration-efr&quot;&gt;Theme 3: Endoscopy Frame Restoration (EFR)&lt;/h4&gt;
+
+&lt;p&gt;TO BE DECLAIRED!&lt;/p&gt;
+
+&lt;h4 id=&quot;theme-4-3d-endoscopy-reconstruction-and-therapeutic-planning-3d-endocv&quot;&gt;Theme 4: 3D Endoscopy Reconstruction and Therapeutic Planning (3D-EndoCV)&lt;/h4&gt;
+
+&lt;p&gt;TO BE DECLAIRED!&lt;/p&gt;</content><author><name></name></author><summary type="html">About: This is an initiative to promote foundational research required for establishing translational research in Endoscopy.</summary></entry></feed>

@@ -1,0 +1,61 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Computer Vision in Endoscopy (EndoCV)",
+        "excerpt": "About: This is an initiative to promote foundational research required for establishing translational research in Endoscopy.\n\n\n",
+        "content": "About: This is an initiative to promote foundational research required for establishing translational research in Endoscopy.\n\n\nThemes:\n\nTheme 1: Endoscopy Artefact Detection (EAD)\n\n\n  \n    EAD2019\n  \n  \n    EAD2020\n  \n\n\nTheme 2: Endoscopy Disease Detection (EDD)\n\nTO BE DECLAIRED!\n\nTheme 3: Endoscopy Frame Restoration (EFR)\n\nTO BE DECLAIRED!\n\nTheme 4: 3D Endoscopy Reconstruction and Therapeutic Planning (3D-EndoCV)\n\nTO BE DECLAIRED!\n\n",
+        "url": "/general/2018/08/22/hello-world/"
+      },
+    
+  
+  
+  
+  {
+    "title": "EndoCV",
+    "excerpt": "\n",
+    "content": "About:\n\nEndoscopy is a widely used clinical procedure for the early detection of numerous cancers (e.g., nasopharyngeal, oesophageal adenocarcinoma, gastric, colorectal cancers, bladder cancer etc.), therapeutic procedures and minimally invasive surgery (e.g., laparoscopy). During this procedure an endoscope is used; a long, thin, rigid or flexible tube having a light source and a camera at the tip which allows to visualize inside of affected organs on a screen. However working with clinical endoscopy data is immensely difficult which comes from frame quality degradation due to various artefacts-to-organ deformation-to-non-planar organ geometries. This is an initiative to promote foundational research in Endoscopy focussed towards a translational research. The programme has a long term vision and we invite interested people to join us. We invite both clinical and computational scientists within this network.\n\nInitiators and creators\n\n  \n    Dr. Sharib Ali\n  \n  \n    Dr. Felix Zhou\n  \n\n\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "EndoCV",
+    "excerpt": "\n",
+    "content": "About: This is an initiative to promote foundational research required for establishing translational research in Endoscopy.\n\n",
+    "url": "/eventsxx/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Welcome to EndoCV Challenges",
+    "excerpt": "\n",
+    "content": "Preface\nEndoscopy is a widely used clinical procedure for the early detection of numerous cancers (e.g., nasopharyngeal, oesophageal adenocarcinoma, gastric, colorectal cancers, bladder cancer etc.), therapeutic procedures and minimally invasive surgery (e.g., laparoscopy). During this procedure an endoscope is used; a long, thin, rigid or flexible tube having a light source and a camera at the tip which allows to visualize inside of affected organs on a screen. However working with clinical endoscopy data is immensely difficult which comes from frame quality degradation due to various artefacts-to-organ deformation-to-non-planar organ geometries. This is an initiative to promote foundational research in Endoscopy targeted towards a clinical translation. The programme has a long term vision and we invite interested people to join us. We invite both clinical and computational scientists within this network.\n\nWe have designed below themes (but not limited) which we think are important for dealing highly complex endoscopy data in clinics. This is a long-term vision and we have sucessfully achieved (to some extend) identified, defined and addressed frame quality in endoscopy (Theme 1). We will be more than happy to have people with knowledge in this domain to contribute and work together with us for realising this systematic plan. Each theme is briefly discussed below with the links to the accomplished challenges as well.\n\nThemes:\n\nTheme 1: Endoscopy Artefact Detection (EAD)\n—-&gt; EAD2019\n\n—-&gt; EAD2020\n\nTheme 2: Endoscopy Disease Detection (EDD)\nTO BE DECLAIRED!\n\nTheme 3: Endoscopy Frame Restoration (EFR)\nTO BE DECLAIRED!\n\nTheme 4: 3D Endoscopy Reconstruction and Therapeutic Planning (3D-EndoCV)\nTO BE DECLAIRED!\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Publications",
+    "excerpt": "\n",
+    "content": "[1]  Ali, S., Zhou, F., Bailey, A., Braden, B., East, J., Lu, X., &amp; Rittscher, J. (2019a). A deep learning framework for quality assessment and restoration in video endoscopy. arXiv, arXiv:1904.07073.\n\n[2]  Ali, S., Zhou, F., Daul, C., Braden, B., Bailey, A., Realdon, S., East, J., Wagnieres, G., Loschenov, V., Grisan, E., Blondel, W., &amp; Rittscher, J. (2019b). Endoscopy artifact detection (EAD 2019) challenge dataset. arXiv, arXiv:1905.03209.\n\n",
+    "url": "/publications/"
+  }
+  
+]
+
